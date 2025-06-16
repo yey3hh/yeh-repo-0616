@@ -8,4 +8,6 @@ public class MemberDao {
 	public void find() {
 		
 	}
+	
+	public void delete() {}
 }
