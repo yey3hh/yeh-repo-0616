@@ -4,4 +4,8 @@ public class MemberDao {
 	public void register() {
 		
 	}
+	
+	public void find() {
+		
+	}
 }
